@@ -11,7 +11,6 @@
 
 ### - 🔭 I’m currently working on ... Bridges to Prosperity 
 ### - 🌱 I’m currently learning ... Data Science
-### - 👯 I’m looking to collaborate on ... Data Science 
 ### - 🤔 I’m looking for help with ... Life
 ### - 💬 Ask me about ... Anything - You have a question? I have Google!
 ### - 📫 How to reach me: ... LinkedIn
