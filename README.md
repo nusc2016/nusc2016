@@ -7,7 +7,7 @@ That I haven't come to love and enjoy!
 
 Here are a few fun things about me, that you may not already know:
 
-- 🔭 I’m currently working on ... Bridges to Prosperity 
+- 🔭 I’m currently working on ... Bridges to Prosperity Project
 - 🌱 I’m currently learning ... Data Science
 - 🤔 I’m looking for help with ... Life
 - 💬 Ask me about ... Anything - You have a question? I have Google!
